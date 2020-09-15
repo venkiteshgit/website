@@ -1,4 +1,4 @@
-FROM venkiteshgit/website
+FROM hshar/webapp
 ADD .  /var/www/html
 
 
